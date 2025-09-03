@@ -26,14 +26,14 @@ function Home() {
             {/* <span> Developer</span> */}
              <ReactTyped
              className='text-red-700 font-bold'
-          strings={["Developer", "Programmer", "GoodLearner"]}
+          strings={["Developer", "Programmer", "GoodLearner", "Engineer"]}
           typeSpeed={40}
           backSpeed={50}
           loop = {true}
         />
          </div>
          <br/>
-         <p className='text-sm md:text-md text-justify'>Hello i'm satyam here, trying to build my portfolio from past months, but for some reason it wasn't ready, finally i got a great chance and i did it!</p>
+         <p className='text-sm md:text-md text-justify'>I am a Software Engineer specializing in Full Stack Development, crafting seamless applications from intuitive frontends to robust backends. With strong expertise in modern frameworks, databases, and APIs, I deliver scalable and high-performance solutions. Passionate about clean code and innovation, I transform ideas into impactful digital products.</p>
          <br/>
          {/* Social Media Icons */}
          <div className='flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0 '>
