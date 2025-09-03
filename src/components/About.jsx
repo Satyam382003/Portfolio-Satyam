@@ -1,5 +1,6 @@
 import React from 'react'
-import image from '../../public/verticalimg.jpg'
+// import image from '../../public/verticalimg.jpg'
+import image from '../../public/New Profile photo.jpg'
 
 function About() {
   return (
@@ -21,16 +22,10 @@ function About() {
           </h2>
           <h3 className="text-2xl font-semibold text-gray-700">I'm Satyam</h3>
           <h4 className="text-xl font-medium text-gray-600">
-            Full Stack Developer
+            Full Stack Developer/Software Developer/Software Engineer
           </h4>
           <p className="text-gray-700">
-            I am a Full Stack Developer with 2 years of experience, having a
-            strong ability to build both the front and back ends of web
-            applications. I create user-friendly interfaces using modern tools
-            like React and manage server-side logic with technologies like
-            Node.js. I work with databases such as MongoDB and MySQL to store
-            and retrieve data efficiently. With my problem-solving skills, I
-            ensure smooth and reliable applications from start to finish.
+            I am a Software Developer dedicated to building scalable, intuitive, and high-performance applications. Leveraging modern technologies such as React, Node.js, MongoDB, and MySQL, I craft solutions that seamlessly blend usability with efficiency. Driven by strong analytical and problem-solving skills, I engineer software that adapts, endures, and creates real impact.
           </p>
 
           <div className="bg-gray-100 rounded-lg p-4 shadow-sm">
